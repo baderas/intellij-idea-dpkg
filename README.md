@@ -18,6 +18,16 @@ and use that.
 OPTIONS
 --------
 
+* `-c <channel>`
+
+    The IDEA channel to package. 'channel' can be one of 'stable' and 'eap'
+    for stable version or Early Access Preview (EAP) version respectively.
+
+    This option will be stored in `$HOME/.intellij-idea-dpkg` so you
+    don't have to specifiy it in the next run.
+
+    Defaults to 'eap'.
+
 * `-f <flavor>`
 
     The IDEA flavor to package. 'flavor' can be one of 'IU' and 'IC'
