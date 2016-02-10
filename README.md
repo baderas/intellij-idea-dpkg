@@ -1,3 +1,5 @@
+**Note: intellij-idea-dpkg is deprecated, please use [package-jetbrains-ide](https://github.com/baderas/package-jetbrains-ide)!**
+
 SYNOPSIS
 --------
 
